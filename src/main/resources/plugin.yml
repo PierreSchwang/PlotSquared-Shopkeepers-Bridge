@@ -1,0 +1,9 @@
+name: PlotSquaredShopkeepersBridge
+author: Pierre Maurice Schwang
+version: 1.0
+api-version: 1.16
+main: de.pierreschwang.psskbridge.PsskBridgePlugin
+
+depend:
+  - PlotSquared
+  - Shopkeepers
